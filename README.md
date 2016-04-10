@@ -1,3 +1,13 @@
 # Pricing
-GitHub pricing.
-This is an example of a "commit," or saved change.
+
+There are three different paid plans in GitHub.
+
+Personal
+$7/mo
+
+Organization
+$25/mo
+
+Enterprise
+$2,500/yr
+
